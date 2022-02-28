@@ -5,12 +5,12 @@
 </p>
 <hr>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AlxisHenry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlxisHenry&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 <p align="center">
-<a href="https://">
+<a href="https://github.com/AlxisHenry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxisHenry&layout=compact&theme=tokyonight" />
 </a>
 </p>
@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxisHenry&repo=CCI-2021-PORTFOLIO&show_owner=true&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/AlxisHenry/Learn-CSS-Schlegel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxisHenry&repo=Learn-CSS-Schlegel&show_owner=true&theme=tokyonight" />
 </a>
 </p>
