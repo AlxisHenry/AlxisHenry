@@ -33,17 +33,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxisHenry&repo=Learn-CSS-Schlegel&show_owner=true&theme=tokyonight" />
 </a>
 </p>
-
-<br>
-<br>
-<p align="center">
-  Les statistiques sont générées grâce à ce repository !
-</p>
-<hr>
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
-</a>
-
-  
-</p>
