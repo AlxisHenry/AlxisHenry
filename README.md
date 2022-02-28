@@ -1,4 +1,4 @@
-### 🏌️ Bienvenue sur mon profile Github !
+### 🏌️ Bienvenue sur mon GitHub
 
 <br>
 <p align="center">
