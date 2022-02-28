@@ -1,5 +1,13 @@
 ### 🏌️ Bienvenue sur mon profile Github !
-<br><br>
+
+<br>
+<p align="center">
+<a href="https://wakatime.com/@b7db3515-75b7-455d-937b-6cf28353dd3f">
+  <img align="center" src="https://wakatime.com/badge/user/b7db3515-75b7-455d-937b-6cf28353dd3f.svg"/>
+</a>
+</p>
+
+<br>
 <p align="center">
   Quelques statistiques...
 </p>
@@ -14,8 +22,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxisHenry&layout=compact&theme=tokyonight" />
 </a>
 </p>
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlxisHenry)](https://github.com/AlxisHenry/github-readme-stats) -->
 
 <br>
 <br>
