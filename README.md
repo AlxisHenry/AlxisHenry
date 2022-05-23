@@ -9,7 +9,7 @@
 
 <br>
 
-I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>. I work as much as possible to become Fullstack Developer 💻 
+I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>. I work as much as possible to become Fullstack Developer 💻 
 
 <br>
 
@@ -37,13 +37,20 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France <img s
 
 ## Some stats 
 
-<p align="end">
+<p align="start">   <strong>Work Time</strong> </p>
+<p align="start">
    <img src="https://wakatime.com/badge/user/b7db3515-75b7-455d-937b-6cf28353dd3f.svg">  
 </p>
 
 <br>
 
-## Projects
+<p align="start"> <strong> Most Use </strong> </p>
+<p align="start">
+<a href="https://github.com/AlxisHenry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxisHenry&layout=compact" />
+</a>
+</p>
+
 
 <br>
 
