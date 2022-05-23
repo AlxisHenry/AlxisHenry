@@ -4,6 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](http://alexishenry.eu/)
 [![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=337ab7)](https://wakatime.com/@AlxisHenry)
 [![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=bb432c)](https://www.codewars.com/users/AlxisHenry)
+[![Rootme](https://img.shields.io/badge/root_me-0077B5?style=for-the-badge&color=191c22)](https://www.root-me.org/MANAALEXIS?lang=fr#170128326f78a2de456415a97b854e29)
 
 ---
 
