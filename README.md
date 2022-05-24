@@ -42,6 +42,7 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![React](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=gray)]()
 [![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
 [![Nginx](https://img.shields.io/badge/nginx%20-%23323330.svg?&style=for-the-badge&logo=nginx&logoColor=009639&color=gray)]()
+[![Swift](https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=F05138&color=gray)]()
 
 <br>
 
