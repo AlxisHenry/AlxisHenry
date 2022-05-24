@@ -21,17 +21,27 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 
 ## Tech I use
 
+[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=fcdc00&color=gray)]()
+[![Laravel](https://img.shields.io/badge/laravel%20-hotpink.svg?&style=for-the-badge&logo=laravel&logoColor=FF2D20&color=gray)]()
+[![Php](https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=8b9ed6&color=gray)]()
+[![MySQL](https://img.shields.io/badge/mysql%20-hotpink.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1&color=gray)]()
+[![Scss](https://img.shields.io/badge/scss%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=CC6699&color=gray)]()
+[![Python](https://img.shields.io/badge/python%20-hotpink.svg?&style=for-the-badge&logo=python&color=gray)]()
+[![Shell](https://img.shields.io/badge/bash%20-hotpink.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=gray)]()
+[![Batch](https://img.shields.io/badge/batch%20-hotpink.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=f2f2f2&color=gray)]()
+[![Powershell](https://img.shields.io/badge/powershell%20-hotpink.svg?&style=for-the-badge&logo=powershell&logoColor=5391FE&color=gray)]()
+[![PhpStorm](https://img.shields.io/badge/phpstorm%20-hotpink.svg?&style=for-the-badge&logo=phpstorm&logoColor=a247ea&color=gray)]()
+[![VisualStudioCode](https://img.shields.io/badge/vscode%20-hotpink.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=gray)]()
+
 <br>
 
-[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=fcdc00&color=gray)]()
-[![Laravel](https://img.shields.io/badge/laravel%20-hotpink.svg?&style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)]()
-[![Php](https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=8b9ed6&color=gray)]()
-[![MySQL](https://img.shields.io/badge/mysql%20-hotpink.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)]()
-[![Scss](https://img.shields.io/badge/scss%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white&color=c76494)]()
-[![Python](https://img.shields.io/badge/python%20-hotpink.svg?&style=for-the-badge&logo=python&color=gray)]()
-[![Shell](https://img.shields.io/badge/bash%20-hotpink.svg?&style=for-the-badge&logo=gnu-bash&logoColor=000&color=F2F2F2)]()
-[![Batch](https://img.shields.io/badge/batch%20-hotpink.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=black&color=white)]()
-[![Powershell](https://img.shields.io/badge/powershell%20-hotpink.svg?&style=for-the-badge&logo=powershell&logoColor=black&color=white)]()
+## Tech I learn
+
+[![Typescript](https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=gray)]()
+[![Node.js](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=339933&color=gray)]()
+[![React](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=gray)]()
+[![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
+[![Nginx](https://img.shields.io/badge/nginx%20-%23323330.svg?&style=for-the-badge&logo=nginx&logoColor=009639&color=gray)]()
 
 <br>
 
