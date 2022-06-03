@@ -32,6 +32,8 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![Powershell](https://img.shields.io/badge/powershell%20-hotpink.svg?&style=for-the-badge&logo=powershell&logoColor=5391FE&color=gray)]()
 [![PhpStorm](https://img.shields.io/badge/phpstorm%20-hotpink.svg?&style=for-the-badge&logo=phpstorm&logoColor=a247ea&color=gray)]()
 [![VisualStudioCode](https://img.shields.io/badge/vscode%20-hotpink.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=gray)]()
+[![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=red&color=gray)]()
+[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=e84e31&color=gray)]()
 
 <br>
 
@@ -43,6 +45,9 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
 [![Nginx](https://img.shields.io/badge/nginx%20-%23323330.svg?&style=for-the-badge&logo=nginx&logoColor=009639&color=gray)]()
 [![Swift](https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=F05138&color=gray)]()
+[![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&color=gray)]()
+[![Vagrant](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=0f54c4&color=gray)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=2f69de&color=gray)]()
 
 <br>
 
