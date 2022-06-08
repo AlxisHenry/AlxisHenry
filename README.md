@@ -22,6 +22,7 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 ## Tech I use
 
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=fcdc00&color=gray)]()
+[![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=0868ab&color=gray)]()
 [![Laravel](https://img.shields.io/badge/laravel%20-hotpink.svg?&style=for-the-badge&logo=laravel&logoColor=FF2D20&color=gray)]()
 [![Php](https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=8b9ed6&color=gray)]()
 [![MySQL](https://img.shields.io/badge/mysql%20-hotpink.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1&color=gray)]()
