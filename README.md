@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0a66c2)](https://www.linkedin.com/in/alexishenry-strasbourg/)
 [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=1dbf73)](https://fr.fiverr.com/alexishenry363)
-[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](http://alexishenry.eu/)
+[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
 [![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=337ab7)](https://wakatime.com/@AlxisHenry)
 [![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=bb432c)](https://www.codewars.com/users/AlxisHenry)
 <!--[![Rootme](https://img.shields.io/badge/root_me-0077B5?style=for-the-badge&color=191c22)](https://www.root-me.org/MANAALEXIS?lang=fr#170128326f78a2de456415a97b854e29)-->
@@ -76,4 +76,4 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0a66c2)](http://alexishenry.eu/)
 [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=1dbf73)](https://fr.fiverr.com/alexishenry363)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](http://alexishenry.eu/)
-[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](http://alexishenry.eu/)
+[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
