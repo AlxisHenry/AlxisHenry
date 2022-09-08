@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
 [![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=337ab7)](https://wakatime.com/@AlxisHenry)
 [![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=bb432c)](https://www.codewars.com/users/AlxisHenry)
-<!--[![Rootme](https://img.shields.io/badge/root_me-0077B5?style=for-the-badge&color=191c22)](https://www.root-me.org/MANAALEXIS?lang=fr#170128326f78a2de456415a97b854e29)-->
+[![Codingame](https://img.shields.io/badge/codingame-0077B5?style=for-the-badge&labelColor=F2F2F2&color=f2bb13)](https://www.codingame.com/profile/ef62f54f9d40d3fac2c4b89f2ed6217f7125574)
 
 <br>
 
