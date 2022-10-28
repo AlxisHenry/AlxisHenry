@@ -49,6 +49,7 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&color=gray)]()
 [![Vagrant](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=0f54c4&color=gray)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=2f69de&color=gray)]()
+[![Windev](https://img.shields.io/badge/windev%20-%23323330.svg?&style=for-the-badge&color=gray)]()
 
 <br>
 
