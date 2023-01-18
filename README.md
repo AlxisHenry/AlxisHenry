@@ -35,18 +35,19 @@ I'm Alexis, <strong>web developer junior</strong> from Strasbourg, France  <img 
 [![VisualStudioCode](https://img.shields.io/badge/vscode%20-hotpink.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=gray)]()
 [![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=red&color=gray)]()
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=e84e31&color=gray)]()
+[![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&color=gray)]()
+[![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
+[![Typescript](https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=gray)]()
 
 <br>
 
 ## Tech I learn
 
-[![Typescript](https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=gray)]()
+[![Kotlin](https://img.shields.io/badge/kotlin%20-%23323330.svg?&style=for-the-badge&logo=kotlin)]()
 [![Node.js](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=339933&color=gray)]()
 [![React](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=gray)]()
-[![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
 [![Nginx](https://img.shields.io/badge/nginx%20-%23323330.svg?&style=for-the-badge&logo=nginx&logoColor=009639&color=gray)]()
 [![Swift](https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=F05138&color=gray)]()
-[![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&color=gray)]()
 [![Vagrant](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=0f54c4&color=gray)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=2f69de&color=gray)]()
 [![Windev](https://img.shields.io/badge/windev%20-%23323330.svg?&style=for-the-badge&color=gray)]()
