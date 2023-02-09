@@ -11,7 +11,7 @@
 
 I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>. I work as much as possible to become Fullstack Developer 💻
 
-<br>a
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlxisHenry&show_icons=true" />
