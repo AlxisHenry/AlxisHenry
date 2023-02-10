@@ -40,6 +40,6 @@ So if you're looking for a developer who is not afraid to take on new challenges
 
 ## Links
 
-[![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=337ab7)](https://wakatime.com/@AlxisHenry)
-[![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=bb432c)](https://www.codewars.com/users/AlxisHenry)
-[![Documentations](https://img.shields.io/badge/documentations-0077B5?style=for-the-badge&color=ab65aa)](https://alxishenry.github.io/docs/)
+[![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=EF4135)](https://wakatime.com/@AlxisHenry)
+[![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=FFFFFF)](https://www.codewars.com/users/AlxisHenry)
+[![Documentations](https://img.shields.io/badge/documentations-0077B5?style=for-the-badge&color=0055A4)](https://alxishenry.github.io/docs/)
