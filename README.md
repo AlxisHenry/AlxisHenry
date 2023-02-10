@@ -1,8 +1,8 @@
 # Hi :raised_hand:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexishenry03)
-[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
-[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=c72835)](https://fr.fiverr.com/alexishenry363)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/alexishenry03)
+[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.alexishenry.eu)
+[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
 
 I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
 
