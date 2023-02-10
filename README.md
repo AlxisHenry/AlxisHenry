@@ -1,81 +1,45 @@
 # Hi :raised_hand:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0a66c2)](https://www.linkedin.com/in/alexishenry-strasbourg/)
-[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=1dbf73)](https://fr.fiverr.com/alexishenry363)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexishenry03)
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
+[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=c72835)](https://fr.fiverr.com/alexishenry363)
+
+I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
+
+I'm a versatile software developer with a passion for exploring new programming languages and technologies. I believe that it is essential to have a broad understanding of different programming paradigms and practices in order to create effective solutions to complex problems.
+
+I am always eager to learn and improve my skills. My goal is to stay up-to-date with the latest trends and best practices in the tech industry, and to continuously expand my knowledge and capabilities.
+
+So if you're looking for a developer who is not afraid to take on new challenges and explore uncharted territory, look no further!
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlxisHenry&show_icons=true" />
+
+## Stack
+
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&color=20232a)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=20232a)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=20232a)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=20232a)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&color=20232a)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&color=20232a)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&color=20232a)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&color=20232a)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&color=20232a)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&color=20232a)
+
+## Techs I'm learning
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=gray)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=gray)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=gray)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=gray)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=gray)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=gray)
+
+## Links
+
 [![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=337ab7)](https://wakatime.com/@AlxisHenry)
 [![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=bb432c)](https://www.codewars.com/users/AlxisHenry)
-[![Codingame](https://img.shields.io/badge/codingame-0077B5?style=for-the-badge&labelColor=F2F2F2&color=f2bb13)](https://www.codingame.com/profile/ef62f54f9d40d3fac2c4b89f2ed6217f7125574)
-
-<br>
-
-I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>. I work as much as possible to become Fullstack Developer 💻
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlxisHenry&show_icons=true" />
-</p>
-
-<br>
-
-## Tech I use
-
-[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=fcdc00&color=gray)]()
-[![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=0868ab&color=gray)]()
-[![Laravel](https://img.shields.io/badge/laravel%20-hotpink.svg?&style=for-the-badge&logo=laravel&logoColor=FF2D20&color=gray)]()
-[![Php](https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=8b9ed6&color=gray)]()
-[![MySQL](https://img.shields.io/badge/mysql%20-hotpink.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1&color=gray)]()
-[![Scss](https://img.shields.io/badge/scss%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=CC6699&color=gray)]()
-[![Python](https://img.shields.io/badge/python%20-hotpink.svg?&style=for-the-badge&logo=python&color=gray)]()
-[![Shell](https://img.shields.io/badge/bash%20-hotpink.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=gray)]()
-[![Batch](https://img.shields.io/badge/batch%20-hotpink.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=f2f2f2&color=gray)]()
-[![Powershell](https://img.shields.io/badge/powershell%20-hotpink.svg?&style=for-the-badge&logo=powershell&logoColor=5391FE&color=gray)]()
-[![PhpStorm](https://img.shields.io/badge/phpstorm%20-hotpink.svg?&style=for-the-badge&logo=phpstorm&logoColor=a247ea&color=gray)]()
-[![VisualStudioCode](https://img.shields.io/badge/vscode%20-hotpink.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=gray)]()
-[![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=red&color=gray)]()
-[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=e84e31&color=gray)]()
-[![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&color=gray)]()
-[![Docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2496ED&color=gray)]()
-[![Typescript](https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=gray)]()
-
-<br>
-
-## Tech I learn
-
-[![Kotlin](https://img.shields.io/badge/kotlin%20-%23323330.svg?&style=for-the-badge&logo=kotlin)]()
-[![Node.js](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=339933&color=gray)]()
-[![React](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=gray)]()
-[![Nginx](https://img.shields.io/badge/nginx%20-%23323330.svg?&style=for-the-badge&logo=nginx&logoColor=009639&color=gray)]()
-[![Swift](https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=F05138&color=gray)]()
-[![Vagrant](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=0f54c4&color=gray)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=2f69de&color=gray)]()
-[![Windev](https://img.shields.io/badge/windev%20-%23323330.svg?&style=for-the-badge&color=gray)]()
-
-<br>
-
-## Some stats 
-
-<p align="start">   <strong>Work Time</strong> </p>
-<p align="start">
-   <img src="https://wakatime.com/badge/user/b7db3515-75b7-455d-937b-6cf28353dd3f.svg">  
-</p>
-
-<br>
-
-<p align="start"> <strong> Most Use </strong> </p>
-<p align="start">
-<a href="https://github.com/AlxisHenry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxisHenry&layout=compact" />
-</a>
-</p>
-
-
-<br>
-
-## Contact me 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0a66c2)](http://alexishenry.eu/)
-[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=1dbf73)](https://fr.fiverr.com/alexishenry363)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](http://alexishenry.eu/)
-[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=F2F2F2)](https://www.alexishenry.eu)
+[![Documentations](https://img.shields.io/badge/documentations-0077B5?style=for-the-badge&color=ab65aa)](https://alxishenry.github.io/docs/)
