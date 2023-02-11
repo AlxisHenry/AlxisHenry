@@ -6,7 +6,7 @@
 
 I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
 
-I'm a versatile software developer with a passion for exploring new programming languages and technologies. I believe that it is essential to have a broad understanding of different programming paradigms and practices in order to create effective solutions to complex problems.
+I'm a software developer with a passion for exploring new programming languages and technologies. I believe that it is essential to have a broad understanding of different programming paradigms and practices in order to create effective solutions to complex problems.
 
 I am always eager to learn and improve my skills. My goal is to stay up-to-date with the latest trends and best practices in the tech industry, and to continuously expand my knowledge and capabilities.
 
