@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.alexishenry.eu)
 [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
 
-I'm Alexis, <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
+I'm [Alexis](https://about.me/alexishenry), <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
 
 I'm a developer with a passion for exploring new programming languages and technologies. I believe that it is essential to have a broad understanding of different programming paradigms and practices in order to create effective solutions to complex problems.
 
