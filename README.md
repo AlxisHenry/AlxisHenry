@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/alexishenry03)
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.alexishenry.eu)
 [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
+[![Malt](https://img.shields.io/badge/malte-0077B5?style=for-the-badge&color=fc5656)](https://www.malt.fr/profile/alexishenry)
+[![Upwork](https://img.shields.io/badge/upwork-0077B5?style=for-the-badge&color=14a800)](https://www.upwork.com/freelancers/~012fa432ae9ab58692)
 
 I'm [Alexis](https://about.me/alexishenry), <strong>junior developer</strong> from Strasbourg, France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/>.
 
@@ -58,3 +60,6 @@ So if you're looking for a developer who is not afraid to take on new challenges
 [![Wakatime](https://img.shields.io/badge/wakatime-0077B5?style=for-the-badge&color=EF4135)](https://wakatime.com/@AlxisHenry)
 [![Codewards](https://img.shields.io/badge/codewars-0077B5?style=for-the-badge&color=FFFFFF)](https://www.codewars.com/users/AlxisHenry)
 [![Documentations](https://img.shields.io/badge/documentations-0077B5?style=for-the-badge&color=0055A4)](https://alxishenry.github.io/docs/)
+[![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
+[![Malt](https://img.shields.io/badge/malte-0077B5?style=for-the-badge&color=fc5656)](https://www.malt.fr/profile/alexishenry)
+[![Upwork](https://img.shields.io/badge/upwork-0077B5?style=for-the-badge&color=14a800)](https://www.upwork.com/freelancers/~012fa432ae9ab58692)
