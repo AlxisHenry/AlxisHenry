@@ -1,0 +1,18 @@
+{
+  "name": "alxishenry",
+  "version": "1.0.0",
+  "description": "[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/alexishenry03) [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.alexishenry.eu) [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}

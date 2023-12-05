@@ -1,0 +1,41 @@
+# EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
+
+# Top-most EditorConfig file
+root = true
+
+# Set the default character set
+[*]
+charset = utf-8
+
+# Use 4 spaces for indentation in all files
+indent_style = space
+indent_size = 4
+
+# Trim trailing whitespace in all files
+trim_trailing_whitespace = true
+
+# Ensure an empty line at the end of all files
+insert_final_newline = true
+
+# Use LF (Unix) line endings
+end_of_line = lf
+
+# Match all JavaScript and TypeScript files
+[*.js, *.ts]
+indent_size = 2
+
+# Match all Python files
+[*.py]
+indent_size = 4
+
+# Match all HTML and XML files
+[*.html, *.xml]
+indent_size = 2
+
+# Match all CSS and SCSS files
+[*.css, *.scss]
+indent_size = 2
+
+# Match all Markdown files
+[*.md]
+indent_size = 2

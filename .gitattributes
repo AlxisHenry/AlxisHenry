@@ -1,0 +1,44 @@
+# Git Attributes
+
+# Set the default behavior for text files
+* text=auto
+
+# Set specific behavior for binary files
+*.jpg binary
+*.png binary
+*.gif binary
+
+# Specify files that should be treated as binary, even if they don't have binary extensions
+*.svg binary
+*.pdf binary
+
+# Specify files that should be normalized (end-of-line conversion)
+*.txt text
+*.md text
+
+# Ignore executable bit (chmod) changes in Git
+*.sh text eol=lf
+
+# Set specific behavior for certain file types
+*.css   text
+*.html  text
+*.js    text
+*.json  text
+*.xml   text
+*.yaml  text
+*.yml   text
+*.php   text
+*.py    text
+*.rb    text
+
+# Ignore whitespace changes
+*.html -whitespace
+*.css -whitespace
+*.js -whitespace
+*.json -whitespace
+*.xml -whitespace
+*.yaml -whitespace
+*.yml -whitespace
+*.php -whitespace
+*.py -whitespace
+*.rb -whitespace
