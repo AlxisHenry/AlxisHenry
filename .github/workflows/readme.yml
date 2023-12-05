@@ -20,6 +20,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Update README.md file
         run: |
+          pnpm install
           node index.js
         env:
           CI: true
