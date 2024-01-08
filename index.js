@@ -15,7 +15,7 @@ const updateReadme = (average) => {
 }
 
 const main = () => {
-  fetch("https://epitech.alexishenry.eu/api/average")
+  fetch("https://epigrades.alexishenry.eu/api/average")
     .then(response => response.json())
     .then(data => {
       let isAverageValid = averageSchema.safeParse(data);
