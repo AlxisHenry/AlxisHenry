@@ -12,7 +12,7 @@ I am always eager to learn and improve my skills. My goal is to stay up-to-date 
 
 So if you're looking for a developer who is not afraid to take on new challenges and explore uncharted territory, look no further!
 
-My current average at Epitech is 17.94/20 (retrieved from this [api](https://github.com/AlxisHenry/epitech-grades) every day) :wink:
+My current average at Epitech is 17.95/20 (retrieved from this [api](https://github.com/AlxisHenry/epitech-grades) every day) :wink:
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlxisHenry&show_icons=true" />
 
