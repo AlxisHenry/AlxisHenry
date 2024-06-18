@@ -1,6 +1,6 @@
 # Hi :raised_hand:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/alexishenry03)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white&color=0055A4)](https://www.linkedin.com/in/alexishenry03)
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.alexishenry.eu)
 [![Fiverr](https://img.shields.io/badge/fiverr-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
 
@@ -48,7 +48,7 @@ My current average at Epitech is 17.75/20 (retrieved from this [api](https://git
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=gray)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white&color=gray)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=gray)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=gray) -->
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=gray)
 
 ## Links
 
